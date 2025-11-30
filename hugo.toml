@@ -1,0 +1,7 @@
+baseURL = '/'
+languageCode = 'fa-ir'
+title = 'به وبلاگ من خوش اومدین'
+theme = "ananke"
+
+[params]
+rtl = true
