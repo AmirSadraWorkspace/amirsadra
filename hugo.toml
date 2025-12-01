@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'fa-ir'
-title = 'به وبلاگ من خوش اومدین'
+title = 'AmirSadra's Blog'
 theme = "ananke"
 
 [params]
