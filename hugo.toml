@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'fa-ir'
-title = 'AmirSadra's Blog'
+title = "AmirSadra's Blog"  # <--- تصحیح شده: استفاده از علامت نقل قول دوتایی و مالکیت صحیح
 theme = "ananke"
 
 [params]
