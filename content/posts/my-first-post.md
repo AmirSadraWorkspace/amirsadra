@@ -5,3 +5,4 @@ title = 'My First Post'
 image = "images/test.jpg"
 +++
 سلام خوش اومدین
+![تصویر پست من](/images/test.jpg)
