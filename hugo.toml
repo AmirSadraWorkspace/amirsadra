@@ -5,3 +5,7 @@ theme = "ananke"
 
 [params]
 rtl = true
+
+[imaging] #baraye nashan dadan aks
+quality = 90
+resampleFilter = "Lanczos"
